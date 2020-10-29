@@ -8,4 +8,3 @@ model下载 链接：https://pan.baidu.com/s/1nsv557ufVGCsV9gtWVrJTw 提取码�
 
 开发环境 AndroidStudio 4.0 
 使用前需配置摄像头及将model放于FaceDetector中path指定位置，可自定义修改 本文仅做原生摄像头识别处理，如需结合opencv请自行参考 咨询联系qq:1004038460
-重要说明：切换成master查看android源码
