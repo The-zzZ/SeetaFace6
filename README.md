@@ -1,5 +1,5 @@
 # SeetaFace6
-an android project built by Seetaface6,only the facedetection part was tested,consider how to learn more using this part,seetaface6 android demo by The_zzZ，安卓SeetaFace6开发示例，仅测试开发人脸检测部分，原生摄像头测试。
+an android project built by Seetaface6,only the facedetection part was tested,consider how to learn more using this part,seetaface6's android demo created by The_zzZ，安卓SeetaFace6开发示例，仅测试开发人脸检测部分，原生摄像头测试。
 
 qt官方示例 https://github.com/seetafaceengine/SeetaFace6 
 c官方源码 https://github.com/SeetaFace6Open/index 
